@@ -1,0 +1,25 @@
+h1 {
+  color:rgb(118, 184, 255);
+}
+
+.paragraph {
+  text-decoration:underline;
+}
+
+q {
+  font-style:italic;
+  border-style: solid;
+}
+
+a {
+  color:royalblue;
+}
+
+p {
+  color:brown;
+  background-color: aquamarine;
+}
+
+ul {
+  color: rgb(118, 255, 118);
+}
